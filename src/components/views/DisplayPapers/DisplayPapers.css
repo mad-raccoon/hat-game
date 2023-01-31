@@ -1,0 +1,25 @@
+.paper {
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.paper h1 {
+
+}
+
+.paper h3 {
+
+}
+
+.paper_container {
+    width: 80%;
+    height: 100%;
+    padding: 20px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
